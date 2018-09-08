@@ -100,7 +100,7 @@ doubleLink.prototype.showAll = function () {
     console.info('show all:' + str);
 };
 
-//test double linklist  
+//Test for double linklist.
 function start() {
     var ss0 = {};
     var ss1 = {};
